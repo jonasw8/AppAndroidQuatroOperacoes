@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuatroOperacoes</string>
+    <string name="sbtrair">Subtrair</string>
+    <string name="somar">Somar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="div">Dividir</string>
+    <string name="pri">Digite o Primeiro Valor</string>
+    <string name="seg">Digite o Segundo Valor</string>
+</resources>
